@@ -1,4 +1,4 @@
-  *UPDATE AS OF DECEMBER 3 2025 16:41*: /the person who contacted me has not reached or contacted again for full 24 days (almost 25). I can consider this project finished and closed. working on this Project gave me some more experience.
+  *UPDATE AS OF DECEMBER 3 2025 16:48*:\the person who contacted me has not reached or contacted again for full 24 days (almost 25). I can consider this project finished and closed. working on this Project gave me some more experience.
 
    NOVEMBER 22 2025:
   *RecepieManager App in Java*
