@@ -1,4 +1,4 @@
-  *UPDATE AS OF DECEMBER 3 2025 16:49*:
+<img width="3072" height="1946" alt="image" src="https://github.com/user-attachments/assets/2b794692-586b-4f86-a1ea-06248cbbbed0" />  *UPDATE AS OF DECEMBER 3 2025 16:49*:
                       the person who contacted me has not reached or contacted again for full 24 days (almost 25). I can consider this project finished and closed. working on this Project gave me some more experience.
 
    NOVEMBER 22 2025:
@@ -11,7 +11,7 @@ Preparation for this Project originally started on October 8th, But development 
 
 * Demonstrational features 👇
 * Design 🍥:
-![image alt](RecepieManager/src/images/app_image.jpg)
+![image alt](RecepieManager/images/app_image.jpg)
 * Startup loading bar 📶:
   ![gif alt](RecepieManager/src/images/startup_system.gif)
   * Choose food products 🍔:
