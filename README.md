@@ -1,7 +1,7 @@
 <img width="3072" height="1946" alt="image" src="https://github.com/user-attachments/assets/2b794692-586b-4f86-a1ea-06248cbbbed0" />  
 
-* FINAL UPDATE ON DECEMBER 10 2025 20:40:
-The Project is finally ended. Everything   is complete, the person still has not   contacted. I consider this project done.
+*FINAL UPDATE OF DECEMBER 10 2025 20:41*:
+       the person still has not contacted, I finally consider this project ended and fully complete.
 
 *UPDATE AS OF DECEMBER 3 2025 16:49*:
                       the person who contacted me has not reached or contacted again for full 24 days (almost 25). I can consider this project finished and closed. working on this Project gave me some more experience.
