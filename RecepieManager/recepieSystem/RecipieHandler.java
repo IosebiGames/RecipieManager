@@ -1,16 +1,16 @@
-package recepieSystem;
+package recipieSystem;
 
 import javax.swing.*;
 import java.io.*;
 import main.App;
 
-public class RecepieHandler {
+public class RecipieHandler {
 
 	private App app;
 	private int counter = 0, allergenAmount = 0;
 	private Timer timer;
 	
-	public RecepieHandler(App app) {
+	public RecipieHandler(App app) {
 		this.app = app;
 	}
 	public void startRecepieSystem() {
