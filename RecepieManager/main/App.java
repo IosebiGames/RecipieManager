@@ -2,11 +2,14 @@ package main;
 
 import javax.swing.*;
 import java.awt.*;
+import java.io.IOException;
+
 import Tools.*;
 import Tools.Button;
 import Tools.Panel;
-import recepieSystem.RecepieHandler;
-import recepieSystem.MoreTab;
+import recipieSystem.MoreTab;
+import recipieSystem.RecipieHandler;
+
 import com.formdev.flatlaf.FlatDarkLaf;
 
 public class App {
@@ -17,7 +20,7 @@ public class App {
 	private Panel panel;
 	private Button button;
 	private Decorator dec;
-	private RecepieHandler rh;
+	private RecipieHandler rh;
     public MoreTab mt;
     public Bounds b;
     public JLabel[] labels = {
@@ -70,7 +73,7 @@ public class App {
 		panel = new Panel(screen);
 		button = new Button();
 		dec = new Decorator(this);
-		rh = new RecepieHandler(this);
+		rh = new RecipieHandler(this);
 		mt = new MoreTab(this);
         b = new Bounds();
 	}
@@ -111,8 +114,11 @@ public class App {
 		sp.createSeperator(labels[16], Color.black, fonts[0], Bounds.seperator4Bounds, true);
 		sp.createSeperator(labels[17], Color.black, fonts[0], Bounds.seperator5Bounds, true);
 		
-	    dec.decorate();
-	     
+	    try {
+			dec.decorate();
+		} catch (IOException e) {
+		    System.out.println("Failed to decorate: " + e.getMessage());
+		}
 	    rh.startRecepieSystem();
 	    
 	    tb.validate(); 
