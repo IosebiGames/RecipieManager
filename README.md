@@ -22,14 +22,14 @@ But this does not mean it is finished; changes and improvements are about to und
 
 * Demonstrational features 👇
 * Design 🍥:
-![image alt](RecepieManager/images/app_image.jpg)
+![image alt](RecipieManager/images/app_image.jpg)
 * Startup loading bar 📶:
-  ![gif alt](RecepieManager/images/startup_system.gif)
+  ![gif alt](RecipieManager/images/startup_system.gif)
 * Choose food products 🍔:
-  ![gif alt](RecepieManager/images/choose_food.gif)
+  ![gif alt](RecipieManager/images/choose_food.gif)
 * Automatic Screen Cleanup 🧽:
-  ![gif alt](RecepieManager/images/automatic_screen_cleanup.gif)
+  ![gif alt](RecipieManager/images/automatic_screen_cleanup.gif)
 * More Information Tab 📜:
-  ![gif alt](RecepieManager/images/nutritional_info.gif)
+  ![gif alt](RecipieManager/images/nutritional_info.gif)
 * Sneaky Close Button Effect 📕:
-  ![gif alt](RecepieManager/images/close_button_effect.gif)
+  ![gif alt](RecipieManager/images/close_button_effect.gif)
