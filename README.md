@@ -1,4 +1,4 @@
-<img width="3072" height="1946" alt="image" src="https://github.com/user-attachments/assets/2b794692-586b-4f86-a1ea-06248cbbbed0" />
+<img width="3072" height="1946" alt="image" src="https://github.com/IosebiGames/RecipieManager/blob/main/RecipieManager/images/app_image.jpg?raw=true" />
 FINAL UPDATE OF DECEMBER 10 2025:
                            the person still has not contacted, I finally consider this project ended and fully complete.
 
