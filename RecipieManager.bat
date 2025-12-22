@@ -1,1 +1,1 @@
-java -jar RecipieManager.jar
+start RecipieManager.jar
