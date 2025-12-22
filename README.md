@@ -26,7 +26,7 @@ But this does not mean it is finished; changes and improvements are about to und
 * Startup loading bar 📶:
   ![gif alt](RecipieManager/images/startup_system.gif)
 * Choose food products 🍔:
-  ![gif alt](RecipieManager/images/choose_food.gif)
+  ![gif alt](RecipieManager/images/choose_products.gif)
 * Automatic Screen Cleanup 🧽:
   ![gif alt](RecipieManager/images/automatic_screen_cleanup.gif)
 * More Information Tab 📜:
