@@ -81,12 +81,13 @@ public class RecipieHandler {
 			IO.println("Can't write Allergen: " + e.getMessage());
 		}
 	}
-	public void writeRecepie(String fileName, String recepie) {
+	public void writeRecipie(String fileName, String recipie) {
 		try {
 			System.setOut(new PrintStream(fileName));
-			System.out.println(recepie);
+			System.out.println(recipie);
 		}catch(IOException e) {
-			IO.println("Can't write Recepie: " + e.getMessage());
+			IO.println("Can't write Recipie: " + e.getMessage());
 		}
 	}
 }
+
