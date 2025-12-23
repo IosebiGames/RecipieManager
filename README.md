@@ -1,10 +1,10 @@
+<img width="3072" height="1946" alt="image" src="https://github.com/IosebiGames/RecipieManager/blob/main/RecipieManager/images/app_image.jpg?raw=true" />
+<img width="3072" height="1946" alt="image" src="https://github.com/IosebiGames/RecipieManager/blob/main/RecipieManager/images/app_image2.jpg?raw=true" />
+
 RecipieManager is a Small project. it is a Desktop Application which lets user pick food, check their Recipies, Allergen content, their nutritional information, request Recipies and more.
 App itself is mainly built in Java Swing and Java AWT, But it partially uses FlatLaf for better Look & Feel. Code for this App is both complex and clean at the same time, After finishing this Project, I gained more experience.
 Idea for this App at the beggining came from one person who addressed sort of Java Helping group because they needed someone who would build an app for them before October 30, because that's a deadline time. On October 4th, I respectfully reach out to them and we both agreed to start a work, I finished the app even earlier at around October 27. However, this person has not contacted on October 30. But on November 9th, they have replied that what I have done is sufficient and how it would be perfect if I hand over the app. I did agree but I wanted to discuss details before handover so I send them a message, but they have not contacted at all for full 43 days (almost 44). Now I consider this Project finished.
 
-* Design 📕:
-![image alt](RecipieManager/images/app_image.jpg)
-![image alt](RecipieManager/images/app_image2.jpg)
 * Demonstrational features 👇
 * Startup loading bar 📶:
   ![gif alt](RecipieManager/images/startup_system.gif)
