@@ -1,2 +1,2 @@
 @echo off
-java --enable-native-access=ALL-UNNAMED -jar RecipieManager.jar
+start "" java --enable-native-access=ALL-UNNAMED -jar RecipieManager.jar
