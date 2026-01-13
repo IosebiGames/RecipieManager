@@ -10,7 +10,6 @@ import main.App;
 import sound.Sound;
 
 public class Decorator implements java.awt.event.ActionListener {
-
     private App app;
     private boolean showingNext = false;
     private Timer imageTimer;
