@@ -7,8 +7,8 @@ import java.io.IOException;
 import Tools.*;
 import Tools.Button;
 import Tools.Panel;
-import recipieSystem.MoreTab;
-import recipieSystem.RecipieHandler;
+import recipeSystem.MoreTab;
+import recipeSystem.RecipeHandler;
 
 import com.formdev.flatlaf.FlatDarkLaf;
 
@@ -20,14 +20,14 @@ public class App {
 	private Panel panel;
 	private Button button;
 	private Decorator dec;
-	private RecipieHandler rh;
+	private RecipeHandler rh;
     public MoreTab mt;
     public Bounds b;
     public JLabel[] labels = {
 			new JLabel("Foods & Drinks"), 
 			new JLabel(""), 
 			new JLabel(""), 
-			new JLabel("Recipies"),
+			new JLabel("Recipes"),
 			new JLabel(""),
 			new JLabel(""),
 			new JLabel(""), 
@@ -81,7 +81,7 @@ public class App {
 		screen.createWindow();
 
 		panel.createPanel(panels[0], Bounds.foodPanelBounds, false);
-		panel.createPanel(panels[1], Bounds.recipiePanelBounds, false);
+		panel.createPanel(panels[1], Bounds.recipePanelBounds, false);
 		panel.createPanel(panels[2], Bounds.allergenPanelBounds, false);
 		panel.createPanel(panels[3], Bounds.sumPanelBounds, false);
 		panel.createPanel(panels[4], Bounds.InformationPanelBounds, false);
@@ -89,7 +89,7 @@ public class App {
 		lb.createLabel(labels[0], fonts[1], Color.yellow, Bounds.foodsLabelBounds, false, panels[0]);
 		lb.createLabel(labels[1], null, null, Bounds.DrinkLabelBounds, false, panels[0]);
 		lb.createLabel(labels[2], null, null, Bounds.burgerLabelBounds, false, panels[0]);
-		lb.createLabel(labels[3], fonts[1], Color.green, Bounds.recipiesLabelBounds, false, panels[1]);
+		lb.createLabel(labels[3], fonts[1], Color.green, Bounds.recipesLabelBounds, false, panels[1]);
 		lb.createLabel(labels[4], null, null, Bounds.burgerFieldLabelBounds, false, panels[1]);
 		lb.createLabel(labels[5], null, null, Bounds.DrinkFieldLabelBounds, false, panels[1]);
 		lb.createLabel(labels[6], null, null, Bounds.IceCreamFieldLabelBounds, false, panels[1]);
@@ -134,4 +134,3 @@ public class App {
 	     });
 	}
 }
-
